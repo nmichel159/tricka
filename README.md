@@ -29,3 +29,9 @@ Kvalita: 5/5
 <img src="nahlady/04_norbert-michel.png" alt="04 Norbert Michel" width="480">
 
 Kvalita: 5/5
+
+### [05 Stigler](05_stigler/)
+
+<img src="nahlady/05_stigler.png" alt="05 Stigler" width="480">
+
+Kvalita: 5,5/5
