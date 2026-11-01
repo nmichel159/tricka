@@ -2,7 +2,7 @@
 
 ## Logo
 
-<img src="logo/nahlad.png" alt="Logo" width="320">
+<img src="nahlady/logo.png" alt="Logo" width="320">
 
 ## Shirts
 
