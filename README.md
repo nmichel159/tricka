@@ -13,7 +13,16 @@ The files in `logo/` are 60 mm wide, have no background and come in cream (`smot
 
 ## First shirt
 
-<img src="navrh/nahlad.png" alt="First shirt: a questionnaire with seven joke questions and the logo" width="560">
+<img src="navrh/umiestnenie.png" alt="Placement: logo on the front, questionnaire on the back" width="720">
+
+Two print positions, each with its own file:
+
+| Position | File | Width | Placement |
+|---|---|---|---|
+| Front | `logo/podpis-1024-6cm-jemny-cierny.svg` | 6 cm | top right as seen from the front (wearer's left chest) |
+| Back | `navrh/prve-tricko.svg` | 28 cm | centred, about 9 cm below the collar |
+
+<img src="navrh/nahlad.png" alt="Back print: a questionnaire with six joke questions" width="560">
 
 A questionnaire with fixed Yes and No boxes, where the joke is in how each question is answered:
 
@@ -23,10 +32,9 @@ A questionnaire with fixed Yes and No boxes, where the joke is in how each quest
 4. Are you a pessimist? Yes, but I'm an informed optimist.
 5. Are you indecisive? Both ticked, both crossed out, both ticked again.
 6. Are you an overthinker? A flowchart that talks itself out of the answer.
-7. Are you passive-aggressive? No, why?
 
-The whole design is in `navrh/` as SVG, PDF and PNG, each question separately in `navrh/policka/`. All of them have
-a transparent background; `nahlad.png` is only a preview on white.
+The back design is in `navrh/` as SVG, PDF and PNG, each question separately in `navrh/policka/`. All of them have
+a transparent background; `nahlad.png` and `umiestnenie.png` are only previews.
 
 ## Status
 
