@@ -13,16 +13,12 @@ The files in `logo/` are 60 mm wide, have no background and come in cream (`smot
 
 ## First shirt
 
-<img src="navrh/umiestnenie.png" alt="Placement: logo on the front, questionnaire on the back" width="720">
+<img src="navrh/umiestnenie.png" alt="Placement: the print on the front of the shirt" width="480">
 
-Two print positions, each with its own file:
+One print on the front, in one file: `navrh/prve-tricko.svg` (also PDF and PNG), 26 cm wide, centred, about 4 cm
+below the neckline. The logo sits at the top right, above the questionnaire.
 
-| Position | File | Width | Placement |
-|---|---|---|---|
-| Front | `logo/podpis-1024-6cm-jemny-cierny.svg` | 6 cm | top right as seen from the front (wearer's left chest) |
-| Back | `navrh/prve-tricko.svg` | 28 cm | centred, about 9 cm below the collar |
-
-<img src="navrh/nahlad.png" alt="Back print: a questionnaire with six joke questions" width="560">
+<img src="navrh/nahlad.png" alt="The print: logo above a questionnaire with six joke questions" width="560">
 
 A questionnaire with fixed Yes and No boxes, where the joke is in how each question is answered:
 
@@ -33,8 +29,8 @@ A questionnaire with fixed Yes and No boxes, where the joke is in how each quest
 5. Are you indecisive? Both ticked, both crossed out, both ticked again.
 6. Are you an overthinker? A flowchart that talks itself out of the answer.
 
-The back design is in `navrh/` as SVG, PDF and PNG, each question separately in `navrh/policka/`. All of them have
-a transparent background; `nahlad.png` and `umiestnenie.png` are only previews.
+Each question is also available separately in `navrh/policka/`. All print files have a transparent background;
+`nahlad.png` and `umiestnenie.png` are only previews.
 
 ## Status
 
