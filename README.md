@@ -17,3 +17,7 @@
 ### [03 Bernoulli Euler](03_bernoulli-euler/)
 
 <img src="nahlady/03_bernoulli-euler.png" alt="03 Bernoulli Euler" width="480">
+
+### [04 Norbert Michel](04_norbert-michel/)
+
+<img src="nahlady/04_norbert-michel.png" alt="04 Norbert Michel" width="480">
