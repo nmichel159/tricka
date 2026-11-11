@@ -35,3 +35,9 @@ Kvalita: 5/5
 <img src="nahlady/05_stigler.png" alt="05 Stigler" width="480">
 
 Kvalita: 5,5/5
+
+### [06 Poor student](06_poor-student/)
+
+<img src="nahlady/06_poor-student.png" alt="06 Poor student" width="480">
+
+Kvalita: ?/5
