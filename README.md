@@ -40,4 +40,4 @@ Kvalita: 5,5/5
 
 <img src="nahlady/06_poor-student.png" alt="06 Poor student" width="480">
 
-Kvalita: ?/5
+Kvalita: 2/5
